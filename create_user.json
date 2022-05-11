@@ -1,0 +1,26 @@
+{
+    "user": {
+        "_id": "Fj8fzLnMpe2GsbbTZ",
+        "createdAt": "2022-05-11T11:50:47.745Z",
+        "username": "rocket.chat",
+        "emails": [
+            {
+                "address": "rocket@chat.com",
+                "verified": false
+            }
+        ],
+        "type": "user",
+        "status": "offline",
+        "active": true,
+        "_updatedAt": "2022-05-11T11:50:49.119Z",
+        "__rooms": [
+            "GENERAL"
+        ],
+        "roles": [
+            "user"
+        ],
+        "name": "RocketChat Challenge",
+        "settings": {}
+    },
+    "success": true
+}

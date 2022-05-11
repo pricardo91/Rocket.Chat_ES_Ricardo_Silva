@@ -1,0 +1,24 @@
+{
+    "room": {
+        "_id": "HcktjqRyWB43vhiCr",
+        "fname": "integracoes",
+        "customFields": {},
+        "description": "",
+        "broadcast": false,
+        "encrypted": false,
+        "name": "integracoes",
+        "t": "p",
+        "msgs": 0,
+        "usersCount": 1,
+        "u": {
+            "_id": "kt866RZvZ6DGb8YSY",
+            "username": "pricardo91"
+        },
+        "ts": "2022-05-11T00:07:51.380Z",
+        "ro": true,
+        "default": false,
+        "sysMes": true,
+        "_updatedAt": "2022-05-11T00:07:51.454Z"
+    },
+    "success": true
+}
